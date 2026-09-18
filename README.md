@@ -240,17 +240,31 @@ Project/
 ```
 
 ## Machine Learning Methodology
+
 Churned is used as the target variable and is excluded from the input features during model training.
+
 A data leakage assessment is performed before model training.
+
 Lifetime_Value is excluded from the machine learning features as a precaution against potential forward-looking aggregation.
+
 Feature selection is based on correlation analysis, missing-value rates, and leakage review rather than blindly using every available column.
+
 The dataset is divided into training and held-out test sets, with 20% reserved for testing.
-Model performance is evaluated using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
+
+Model performance is evaluated using **Accuracy, Precision, Recall, F1-score, and ROC-AUC**.
+
 Business insights and customer behavior analysis are derived from the actual dataset statistics.
+
 No machine-specific file paths are hardcoded, allowing the application to run on different systems.
+
 The project is implemented as a Streamlit application, so no separate frontend or backend Python files are required.
-Author
 
-Rachaita Bhattacharjee
+---
 
-Dataset: E-Commerce Customer Behavior Dataset — Kaggle
+## Author
+
+**Rachaita Bhattacharjee**
+
+**Dataset:** E-Commerce Customer Behavior Dataset — Kaggle
+
+**Dataset Link:** https://www.kaggle.com/datasets/ankushpanday1/ecommerce-customer-behavior-dataset
