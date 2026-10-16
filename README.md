@@ -217,6 +217,12 @@ K-Means clustering is applied to 13 selected behavioural and value features:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71f853fe-2684-415d-8643-0014c623f314" alt="Customer Analytics Dashboard" width="800">
 </p>
+
+<h3>Customer Churn Analysis</h3>
+
+<p align="center">
+  <img width="959" height="497" alt="Image" src="https://github.com/user-attachments/assets/2aa1f73f-f65e-427e-bb2e-861fe2bc2ea4" />
+</p>
 ---
 
 ## Installation
