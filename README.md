@@ -210,6 +210,14 @@ K-Means clustering is applied to 13 selected behavioural and value features:
 
 ---
 
+## Application Screenshots
+
+### Customer Analytics Dashboard
+
+![Customer Analytics Dashboard](<img width="959" height="497" alt="Image" src="https://github.com/user-attachments/assets/71f853fe-2684-415d-8643-0014c623f314" />)
+
+---
+
 ## Installation
 
 pip install -r requirements.txt
