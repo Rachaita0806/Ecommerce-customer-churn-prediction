@@ -223,6 +223,12 @@ K-Means clustering is applied to 13 selected behavioural and value features:
 <p align="center">
   <img width="959" height="497" alt="Image" src="https://github.com/user-attachments/assets/2aa1f73f-f65e-427e-bb2e-861fe2bc2ea4" />
 </p>
+
+<h3>Data Quality</h3>
+
+<p align="center">
+  <img width="958" height="498" alt="Image" src="https://github.com/user-attachments/assets/a6035309-d42f-43f0-8367-e12957c5d90e" />
+</p>
 ---
 
 ## Installation
